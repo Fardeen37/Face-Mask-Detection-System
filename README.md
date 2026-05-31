@@ -94,7 +94,7 @@ Face-Mask-Detection-System/
 ### Run on Google Colab (Recommended)
 
 1. Clone or download this repository
-2. Open `MaskGuard_AI.ipynb` in [Google Colab](https://colab.research.google.com/)
+2. Open `MaskGuard_AI_CV_FINAL.ipynb` in [Google Colab](https://colab.research.google.com/)
 3. Set runtime to **GPU** → `Runtime > Change runtime type > T4 GPU`
 4. Upload your `kaggle.json` file when prompted to automatically fetch the dataset (~150 MB)
 5. Run all cells sequentially — the final cell launches the Gradio interface with a public link
